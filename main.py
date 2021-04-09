@@ -4,7 +4,6 @@
 from tkinter import *
 from tkinter import messagebox
 from tkinter.ttk import Combobox
-from tkinter import filedialog
 
 root = Tk()
 root.title("Tugas Praktikum 3 DPBO Python")
